@@ -1,4 +1,4 @@
-<h1 align="center">Hey! I am Angie <a href="https://emoji.gg/emoji/226410-suroh-purple-star"><img src="https://cdn3.emoji.gg/emojis/226410-suroh-purple-star.gif" width="60px" height="60px" alt="sparkle"></a></h1>
+<h1 align="center">Hey! I am Adriana <a href="https://emoji.gg/emoji/226410-suroh-purple-star"><img src="https://cdn3.emoji.gg/emojis/226410-suroh-purple-star.gif" width="60px" height="60px" alt="sparkle"></a></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4999&pause=1000&color=8E2DE2&center=true&vCenter=true&width=435&lines=Learning+Web+Development;Front-end+%26+Backend+Explorer" alt="Typing SVG" />
@@ -42,4 +42,11 @@ I'm always looking for opportunities to grow, learn, and challenge myself with n
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="github"/>
   <img width="15" />
   <img src="https://raw.githubusercontent.com/r4ccy/r4ccy/main/img/expo.svg" height="50" alt="expo"/>
+</div>
+
+## Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=r4ccy&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r4ccy&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </div>
