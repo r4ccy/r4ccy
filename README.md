@@ -1,8 +1,10 @@
-<h1 align="center">Hey! I am Angie</h1>
+<h1 align="center">Hey! I am Angie <a href="https://emoji.gg/emoji/226410-suroh-purple-star"><img src="https://cdn3.emoji.gg/emojis/226410-suroh-purple-star.gif" width="60px" height="60px" alt="sparkle"></a></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4999&pause=1000&color=8E2DE2&center=true&vCenter=true&width=435&lines=Learning+Web+Development;Front-end+%26+Backend+Explorer" alt="Typing SVG" />
 </p>
+
+<img align="right" width="200px" src="https://raw.githubusercontent.com/r4ccy/r4ccy/main/img/raccy.png" />
 
 **About Me**
 
