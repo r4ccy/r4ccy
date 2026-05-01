@@ -39,4 +39,5 @@ I'm always looking for opportunities to grow, learn, and challenge myself with n
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="github"/>
   <img width="15" />
+  <img src="https://raw.githubusercontent.com/r4ccy/r4ccy/main/img/expo.svg" height="50" alt="expo"/>
 </div>
